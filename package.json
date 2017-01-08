@@ -1,0 +1,24 @@
+{
+  "name": "cai-itb-e1-simple",
+  "version": "1.0.0",
+  "description": "CAI-ITB Experiment 1 - Simple ANN",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanhs/cai-itb-e1-simple.git"
+  },
+  "author": "ryan hs <mr.ryansilalahi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanhs/cai-itb-e1-simple/issues"
+  },
+  "homepage": "https://github.com/ryanhs/cai-itb-e1-simple#readme",
+  "dependencies": {
+    "chess.js": "^0.10.2",
+    "mind-xor": "0.0.3",
+    "node-mind": "^0.2.1"
+  }
+}

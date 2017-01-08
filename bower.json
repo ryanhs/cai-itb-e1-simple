@@ -1,0 +1,22 @@
+{
+  "name": "cai-itb-e1-simple",
+  "description": "CAI-ITB Experiment 1 - Simple ANN",
+  "main": "index.js",
+  "authors": [
+    "ryan hs <mr.ryansilalahi@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ryanhs/cai-itb-e1-simple",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "showdown": "^1.5.5",
+    "highlightjs": "^9.9.0"
+  }
+}
